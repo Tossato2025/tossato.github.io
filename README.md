@@ -86,7 +86,7 @@
         </ul>
     </nav>
     <main>
-    <img src="C:\Users\05766853726\Desktop\bolo_chocolate.jfif" alt="Bolo de Chocolate">
+    <img src="C:\Users\05766853726\Desktop\BOLOS\bolo_chocolate.jfif" alt="Bolo de Chocolate">
         <section id="Bolo de Chocolate">
             <h2>Bolo de Chocolate</h2>
             <p>Ingredientes:<br>
