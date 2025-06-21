@@ -82,9 +82,11 @@
         <ul>
             <li><a href="Bolo de Chocolate">Bolo de Chocolate</a></li>
             <li><a href="Bolo de Cenoura">Bolo de Cenoura</a></li>
+            
         </ul>
     </nav>
     <main>
+    <img src="C:\Users\05766853726\Desktop\bolo_chocolate.jfif" alt="Bolo de Chocolate">
         <section id="Bolo de Chocolate">
             <h2>Bolo de Chocolate</h2>
             <p>Ingredientes:<br>
@@ -107,6 +109,8 @@ Para a cobertura de chocolate
 1 colher sopa de Margarina Doriana com Sal<br>
 1 xícara chá de açúcar</p>
         </section>
+        
+        <img src="C:\Users\05766853726\Desktop\BOLOS\bolo-de-cenoura-sem-acucar-730x365.JPEG" alt="Bolo de Cenoura">
         <section id="Bolo de Cenoura">
             <h2>Bolo de Cenoura</h2>
             <p>Ingredientes:<br>
@@ -124,6 +128,7 @@ Para a cobertura de chocolate
 </body>
 </html>
     }
+       
        
         nav {
             background-color: grey;
