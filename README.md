@@ -1,78 +1,10 @@
 # tossato.github.io
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-br">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RECEITAS DE BOLOS!</title>
-    <style>
-   
-        body {
-            font-family: Arial, sans-serif;
-            margin:  0;
-            padding: 0;
-        }
-        header {
-            background-color: Green;
-            padding: 5px;
-            text-align: center;
-            color: white;
-        }
-        .grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-    }
-       
-        nav {
-            background-color: grey;
-        }
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-        }
-        nav ul li {
-            margin: 10px;
-        }
-        nav ul li a {
-            color: white;
-    padding: 5px 20px;
-           
-        }
-        nav ul li a:hover {
-            background-color: red;
-        }
-        main {
-            padding: 20px;
-            max-width: 1200px;
-      margin: auto;
-        }
-        section {
-            margin-bottom: 30px;
-        }
-        h2 {
-        margin-bottom: 10px;
-            color: black;
-            @media (max-width: 1024px) {
-      .grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-     @media (max-width: 600px) {
-      .grid {
-        grid-template-columns: 1fr;
-      }
-    }
-      nav {
-        flex-direction: column;
-      }
-      nav a {
-        text-align: center;
-      }
-        }
-    </style>
+    <title> "RECEITAS DE BOLOS!" </title>
 </head>
 <body>
     <header>
@@ -82,14 +14,11 @@
         <ul>
             <li><a href="Bolo de Chocolate">Bolo de Chocolate</a></li>
             <li><a href="Bolo de Cenoura">Bolo de Cenoura</a></li>
-            
-        </ul>
-    </nav>
-    <main>
-    <img src="C:\Users\05766853726\Desktop\BOLOS\bolo_chocolate.jfif" alt="Bolo de Chocolate">
+          <main>
         <section id="Bolo de Chocolate">
             <h2>Bolo de Chocolate</h2>
             <p>Ingredientes:<br>
+        
            
 Para a massa de bolo<br>
 
@@ -109,8 +38,6 @@ Para a cobertura de chocolate
 1 colher sopa de Margarina Doriana com Sal<br>
 1 xícara chá de açúcar</p>
         </section>
-        
-        <img src="C:\Users\05766853726\Desktop\BOLOS\bolo-de-cenoura-sem-acucar-730x365.JPEG" alt="Bolo de Cenoura">
         <section id="Bolo de Cenoura">
             <h2>Bolo de Cenoura</h2>
             <p>Ingredientes:<br>
@@ -124,13 +51,7 @@ Para a cobertura de chocolate
 1 colher de sopa de Fermento Químico Dona Benta</p>
         </section>
        
-    </main>
-</body>
-</html>
-    }
-       
-       
-       
 
 </body>
 </html>
+
