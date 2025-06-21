@@ -130,61 +130,7 @@ Para a cobertura de chocolate
     }
        
        
-        nav {
-            background-color: grey;
-        }
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-        }
-        nav ul li {
-            margin: 10px;
-        }
-        nav ul li a {
-            color: white;
-    padding: 5px 20px;
-           
-        }
-        nav ul li a:hover {
-            background-color: red;
-        }
-        main {
-            padding: 20px;
-            max-width: 1200px;
-      margin: auto;
-        }
-        section {
-            margin-bottom: 30px;
-        }
-        h2 {
-        margin-bottom: 10px;
-            color: black;
-            @media (max-width: 1024px) {
-      .grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-     @media (max-width: 600px) {
-      .grid {
-        grid-template-columns: 1fr;
-      }
-    }
-      nav {
-        flex-direction: column;
-      }
-      nav a {
-        text-align: center;
-      }
-        }
-    </style>
-
-    <main>
-        <section id="Bolo de Chocolate">
-            <h2>Bolo de Chocolate</h2>
-          
+       
 
 </body>
 </html>
